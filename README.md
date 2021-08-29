@@ -42,6 +42,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [IT-Projects LLC](https://github.com/it-projects-llc) - The GitHub repos of IT-Projects LLC
 - [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) - Repository with System to sale and manage odoo databases.
 - [SaaS Addons](https://github.com/it-projects-llc/saas-addons) - Repository with Odoo modules for SaaS Businesses.
+- [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) - Repository with Odoo modules for all versions of odoo by sunpop  
 
 
 ## Tools

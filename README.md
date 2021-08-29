@@ -44,6 +44,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - Search Engine
     - [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
+- Script
+    - [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
+    - [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
+    - [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo
+    - [Odoo backup](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Python script that uses the default URL /web/database/backup to generate backups.
 - Libraries
     - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
     - [OdooRPC](https://github.com/OCA/odoorpc) is a Python module to pilot your Odoo servers through JSON-RPC.
@@ -65,6 +70,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Websites
 
 - [Odoo](https://www.odoo.com/) - Odoo Official Site
+- [OCA](https://odoo-community.org/) - Odoo Community Association Official Site
+- [Odoo Apps Store](https://apps.odoo.com/apps) - Odoo Apps Store
+- [OCA Apps Store](https://odoo-community.org/shop) - OCA Apps Store
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/odoo) - Questions tagged with odoo in Stackoverflow
 - [r/Odoo](https://www.reddit.com/r/Odoo/) - Odoo Topic in Reddit
 - [Vauxoo Blog](https://www.vauxoo.com/blog) - Vauxoo Blog in English and Spanish

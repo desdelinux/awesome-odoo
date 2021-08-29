@@ -13,8 +13,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Youtube Channels](#youtube-channels)
     - [Courses](#courses)
     - [Podcasts](#podcasts)
-    - [Twitter](#build-tools)
-    - [Reddit](#built-in-classes-enhancement)
+    - [Twitter](#twitter)
 - [Contributing](#contributing)
 
 ---

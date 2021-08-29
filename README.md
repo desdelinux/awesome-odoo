@@ -47,8 +47,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Libraries
     - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
     - [OdooRPC](https://github.com/OCA/odoorpc) is a Python module to pilot your Odoo servers through JSON-RPC.
-- Rad
-    - 
 - Ides
     - [Visual Studio Code](https://code.visualstudio.com/)
     - [Pycharm](http://www.jetbrains.com/pycharm/)

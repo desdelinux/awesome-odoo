@@ -28,11 +28,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Books
 - Free Books
-    - [Odoo Book V14 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v14/) Complete Functional Documentation of Odoo ERP v14 Enterprise.
-    - [Odoo Book V14 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/community-edition-v14/) Complete Functional Documentation of Odoo ERP v14 Community.
-    - [Odoo Book V13 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v13/) Complete Functional Documentation of Odoo ERP v13 Enterprise.
-    - [Odoo Book V13 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/community-edition-v13/) Complete Functional Documentation of Odoo ERP v13 Community.
-    - [Odoo Book V12 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v12/) Complete Functional Documentation of Odoo ERP v12 Enterprise.
+    - [Odoo Book V14 Enterprise](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v14/) Complete Functional Documentation of Odoo ERP v14 Enterprise by Cybrosys Technologies.
+    - [Odoo Book V14 Community](https://www.cybrosys.com/odoo/odoo-books/community-edition-v14/) Complete Functional Documentation of Odoo ERP v14 Community by Cybrosys Technologies.
+    - [Odoo Book V13 Enterprise](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v13/) Complete Functional Documentation of Odoo ERP v13 Enterprise by Cybrosys Technologies.
+    - [Odoo Book V13 Community](https://www.cybrosys.com/odoo/odoo-books/community-edition-v13/) Complete Functional Documentation of Odoo ERP v13 Community by Cybrosys Technologies.
+    - [Odoo Book V12 Enterprise](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v12/) Complete Functional Documentation of Odoo ERP v12 Enterprise by Cybrosys Technologies.
+    - [Odoo 14 Best Practices](https://www.odoobooks.com/en/14.0/) Implement Odoo Apps for your business
 - Paid Books
 
 
@@ -107,9 +108,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Youtube Channels
 
-- [Odoo Channel](https://www.youtube.com/user/OpenERPonline) - Odoo Official Channel
-- [Vauxoo Channel](https://www.youtube.com/user/OpenERPonline) - Spanish Channel
-- [Ingeniería ADHOC Channel](https://www.youtube.com/user/ingadhoc) - Spanish channel
+- [Odoo](https://www.youtube.com/user/OpenERPonline) - Odoo Official Channel
+- [Vauxoo](https://www.youtube.com/user/OpenERPonline) - Spanish Channel
+- [Odoo Mates](https://www.youtube.com/c/OdooMates/) - English channel
+- [Ingeniería ADHOC](https://www.youtube.com/user/ingadhoc) - Spanish channel
 - [Ahmed Elsaka Channel](https://www.youtube.com/channel/UC1BNgROEXaJhRhuOzBZq7fA) - English channel
 - [Mohamed Magdy Channel](https://www.youtube.com/c/MohamedMagdymohamed_magdy) - English channel
 

@@ -31,7 +31,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Repositories
 
 - [Odoo](https://github.com/odoo) - The GitHub repos of Odoo
-- [Odoo](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
+- [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
 - [Odoo Community](https://github.com/odoo/odoo) - Odoo Community Official Repositories
 - [Odoo Enterprise](https://github.com/odoo/enterprise) - Odoo Enterprise Official Repositories
 - [Odoo Design Themes](https://github.com/odoo/design-themes) - Odoo Design Themes Official Repositories
@@ -39,12 +39,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo OWL web framework](https://github.com/odoo/owl) - OWL web framework Official Repositories
 - [Vauxoo](https://github.com/vauxoo) - The GitHub repos of Vauxoo an OpenSource Specialists and Odoo's Gold Partner
 - [Moldeo Interactive](https://github.com/ctmil) - The GitHub repos of Moldeo Interactive an Company based in Argentina, development on Odoo
+- [IT-Projects LLC](https://github.com/it-projects-llc) - The GitHub repos of IT-Projects LLC
+- [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) - Repository with System to sale and manage odoo databases.
+- [SaaS Addons](https://github.com/it-projects-llc/saas-addons) - Repository with Odoo modules for SaaS Businesses.
+
 
 ## Tools
 
 - Search Engine
     - [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 - Script
+    - [Odoo Install Script](https://github.com/Yenthe666/InstallScript) - Odoo Install Script by Yenthe Van Ginneken
     - [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
     - [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
     - [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo

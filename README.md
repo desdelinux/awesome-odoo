@@ -27,6 +27,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Data Model Documentation for V8](http://useopenerp.com/v8) with UML diagrams.
 
 ## Books
+- Free Books
+    - [Odoo Book V14 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v14/) Complete Functional Documentation of Odoo ERP v14 Enterprise.
+    - [Odoo Book V14 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/community-edition-v14/) Complete Functional Documentation of Odoo ERP v14 Community.
+    - [Odoo Book V13 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v13/) Complete Functional Documentation of Odoo ERP v13 Enterprise.
+    - [Odoo Book V13 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/community-edition-v13/) Complete Functional Documentation of Odoo ERP v13 Community.
+    - [Odoo Book V12 - Cybrosys Technologies](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v12/) Complete Functional Documentation of Odoo ERP v12 Enterprise.
+- Paid Books
+
+
 
 ## Repositories
 

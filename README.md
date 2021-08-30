@@ -47,6 +47,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo OWL web framework](https://github.com/odoo/owl) - OWL web framework Official Repositories
 - [Vauxoo](https://github.com/vauxoo) - The GitHub repos of Vauxoo an OpenSource Specialists and Odoo's Gold Partner
 - [Moldeo Interactive](https://github.com/ctmil) - The GitHub repos of Moldeo Interactive an Company based in Argentina, development on Odoo
+- [Ingeniería Adhoc](https://github.com/ingadhoc) - The GitHub repos of Ing. Adhoc, modules and Argentine localization.
 - [IT-Projects LLC](https://github.com/it-projects-llc) - The GitHub repos of IT-Projects LLC
 - [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) - Repository with System to sale and manage databases.
 - [SaaS Addons](https://github.com/it-projects-llc/saas-addons) - Repository with modules for SaaS Businesses.

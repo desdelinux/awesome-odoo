@@ -89,6 +89,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo Apps Store](https://apps.odoo.com/apps) - Official Apps Store
 - [OCA Apps Store](https://odoo-community.org/shop) - OCA Apps Store
 - [The Odoo Store](https://www.theodoostore.com/) - Find apps, themes, e-documentation or an partner
+- [Oocademy](https://www.oocademy.com/) - Technical tutorials, documentation and exams
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/odoo) - Questions tagged with odoo in Stackoverflow
 - [r/Odoo](https://www.reddit.com/r/Odoo/) - Odoo Topic in Reddit
 - [Vauxoo Blog](https://www.vauxoo.com/blog) - Vauxoo Blog in English and Spanish

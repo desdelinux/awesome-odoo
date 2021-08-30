@@ -12,7 +12,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Websites](#websites)
     - [Youtube Channels](#youtube-channels)
     - [Courses](#courses)
-    - [Podcasts](#podcasts)
     - [Twitter](#twitter)
 - [Contributing](#contributing)
 
@@ -52,7 +51,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) - Repository with System to sale and manage databases.
 - [SaaS Addons](https://github.com/it-projects-llc/saas-addons) - Repository with modules for SaaS Businesses.
 - [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) - Repository with modules for all versions by sunpop  
-
 
 ## Tools
 
@@ -107,6 +105,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo Spain Users Forum](https://groups.google.com/g/openerp-spain-users) - Odoo Spain Users Forum in Spanish
 - [Odoo Brasil Forum](https://groups.google.com/g/openerp-brasil) - Odoo Brasil Forum in Portuguese
 - [Developpez Odoo Forum](https://www.developpez.net/forums/f1602/logiciels/solutions-d-entreprise/erp/odoo-ex-openerp/) - Developpez Odoo Forum in French
+- [Ooacademy](https://www.oocademy.com/) - Tutorials and documentation
 
 ## Youtube Channels
 
@@ -139,14 +138,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo Bangla](https://www.youtube.com/channel/UCoVnWNoF0kQbukKqN_DxxfQ) - Bangla channel
 - [Luigys Toro](https://www.youtube.com/channel/UCAoYNRiCdqVGxAbNoiUODRg) - Spanish channel
 
-
 ## Courses
 
 - [Official Odoo Courses](https://www.odoo.com/es_ES/slides/all) - Official Courses
 - [Odoo Class](https://www.odooclass.com/page/homepage) - Greg Moss Course Sites
 - [Diseñando y construyendo un módulo en Odoo](https://vauxoo.thinkific.com/courses/odoo-backend) - Diseñando y construyendo un módulo by Vauxoo
 - [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=odoo) - Courses in Udemy
-## Podcasts
 
 ## Twitter
 
@@ -155,9 +152,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [@OdooStatus](https://twitter.com/OdooStatus) - Technical tweets about Odoo Online and the infrastructure supporting it
 - [@Odoo_Events](https://twitter.com/Odoo_Events) - All information on official events
 - [@fpodoo](https://twitter.com/fpodoo) - Odoo Founder
+- [@Vauxoo](https://twitter.com/vauxoo) - Tips, Updates and News about Odoo by Vauxo
 - [@yenthe666](https://twitter.com/fpodoo) - Tips, Updates and News about Odoo by Yenthe Van Ginneken
 - [@odootechnical](https://twitter.com/odootechnical) - Tips, Updates and News about Odoo by Burhan Vakharia
 - [@OdooJobss](https://twitter.com/OdooJobss) - By & for Odoo Developers, quality tweets
+- [@OdooMemes](https://twitter.com/OdooMemes) - Related Memes 
+
 
 # Contributing
 

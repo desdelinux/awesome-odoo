@@ -106,6 +106,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo Brasil Forum](https://groups.google.com/g/openerp-brasil) - Odoo Brasil Forum in Portuguese
 - [Developpez Odoo Forum](https://www.developpez.net/forums/f1602/logiciels/solutions-d-entreprise/erp/odoo-ex-openerp/) - Developpez Odoo Forum in French
 - [Oocademy](https://www.oocademy.com/) - Tutorials and documentation
+- [Coding Dodo](https://codingdodo.com/) - Tutorials, heavy focus on JavaScript and OWL
 
 ## Youtube Channels
 

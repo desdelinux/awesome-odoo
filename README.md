@@ -109,6 +109,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Developpez Odoo Forum](https://www.developpez.net/forums/f1602/logiciels/solutions-d-entreprise/erp/odoo-ex-openerp/) - Developpez Odoo Forum in French
 - [Oocademy](https://www.oocademy.com/) - Tutorials and documentation
 - [Coding Dodo](https://codingdodo.com/) - Tutorials, heavy focus on JavaScript and OWL
+- [Holden Rehg Blog](https://holdenrehg.com/blog) - Holden Rehg Blog in English
 
 ## Youtube Channels
 

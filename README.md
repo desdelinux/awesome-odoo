@@ -97,8 +97,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Tutorial Odoo Blog](https://tutorialopenerp.wordpress.com/) - Tutorial Odoo Blog in Bahasa Indonesia
 - [Odoobiz Blog](http://blog.odoobiz.com/) - Odoobiz Blog in English
 - [Pinakin Nayi Blog](http://pinakinnayi.blogspot.com/) - Pinakin Nayi Blog in English
-- [Zesty Beanz Blog](http://blog.odoobiz.com/) - Zesty Beanz Blog in English
-- [Agi PME Blog](http://blog.odoobiz.com/) - Agi PME Blog in French
+- [Zesty Beanz Blog](https://zbeanztech.com/blogs/) - Zesty Beanz Blog in English
+- [Agi PME Blog](https://agipme.fr/) - Agi PME Blog in French
 - [Odoo Peru Forum](https://groups.google.com/g/openerp_peru) - Odoo Perú Forum in Spanish
 - [Odoo Argentina Forum](https://groups.google.com/g/odoo-argentina) - Odoo Argentina Forum in Spanish
 - [Odoo Spain Forum](https://groups.google.com/g/openerp-spain) - Odoo Spain Forum in Spanish

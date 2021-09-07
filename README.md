@@ -57,6 +57,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Tools
 
+- All-in-one tools
+    - [Doodba](https://github.com/tecnativa/doodba) - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
 - Search Engine
     - [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 - Script
@@ -100,15 +102,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Tutorial Odoo Blog](https://tutorialopenerp.wordpress.com/) - Tutorial Odoo Blog in Bahasa Indonesia
 - [Odoobiz Blog](http://blog.odoobiz.com/) - Odoobiz Blog in English
 - [Pinakin Nayi Blog](http://pinakinnayi.blogspot.com/) - Pinakin Nayi Blog in English
-- [Zesty Beanz Blog](http://blog.odoobiz.com/) - Zesty Beanz Blog in English
-- [Agi PME Blog](http://blog.odoobiz.com/) - Agi PME Blog in French
+- [Zesty Beanz Blog](https://zbeanztech.com/blogs/) - Zesty Beanz Blog in English
+- [Agi PME Blog](https://agipme.fr/) - Agi PME Blog in French
 - [Odoo Peru Forum](https://groups.google.com/g/openerp_peru) - Odoo Perú Forum in Spanish
 - [Odoo Argentina Forum](https://groups.google.com/g/odoo-argentina) - Odoo Argentina Forum in Spanish
 - [Odoo Spain Forum](https://groups.google.com/g/openerp-spain) - Odoo Spain Forum in Spanish
 - [Odoo Spain Users Forum](https://groups.google.com/g/openerp-spain-users) - Odoo Spain Users Forum in Spanish
 - [Odoo Brasil Forum](https://groups.google.com/g/openerp-brasil) - Odoo Brasil Forum in Portuguese
 - [Developpez Odoo Forum](https://www.developpez.net/forums/f1602/logiciels/solutions-d-entreprise/erp/odoo-ex-openerp/) - Developpez Odoo Forum in French
-- [Ooacademy](https://www.oocademy.com/) - Tutorials and documentation
+- [Oocademy](https://www.oocademy.com/) - Tutorials and documentation
+- [Coding Dodo](https://codingdodo.com/) - Tutorials, heavy focus on JavaScript and OWL
+- [Holden Rehg Blog](https://holdenrehg.com/blog) - Holden Rehg Blog in English
 
 ## Youtube Channels
 

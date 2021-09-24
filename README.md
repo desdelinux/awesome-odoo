@@ -35,7 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [Odoo Book V13 Community](https://www.cybrosys.com/odoo/odoo-books/community-edition-v13/) - Complete Functional Documentation for v13 Community by Cybrosys Technologies.
     - [Odoo Book V12 Enterprise](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v12/) - Complete Functional Documentation for v12 Enterprise by Cybrosys Technologies.
     - [Odoo 14 Best Practices](https://www.odoobooks.com/en/14.0/) - Implement Odoo Apps for your business
-    - [Odoo Book V13 (Spanish)](https://www.ynext.cl/download/capacidad_odoo__erp_13.pdf) - Manual V13 Funcional básico
+    - [Odoo Book V13 (Spanish)](https://www.ynext.cl/download/capacidad_odoo__erp_13.pdf) - Basic functional manual V13 in Spanish
 - Paid Books
     - [Packt Books](https://subscription.packtpub.com/search?query=odoo) - Books by Packt publishing house
     - [Amazon Books](https://www.amazon.com/s?k=odoo&i=stripbooks-intl-ship&ref=nb_sb_noss) - Books sold on amazon

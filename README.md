@@ -92,6 +92,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Linters
     - [pylint-odoo](https://github.com/OCA/pylint-odoo) - Pylint plugin
 
+- Design
+    - [odoo-fa-icons](https://docs.huihoo.com/odoo/training/reference-material/odoo-icon-smart-buttons.pdf) - Icons for buttons
+
 ## Websites
 
 - [Odoo](https://www.odoo.com/) - Official Site

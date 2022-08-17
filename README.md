@@ -64,6 +64,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - All-in-one tools
     - [Doodba](https://github.com/tecnativa/doodba) - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
+    - [odoo-tools](https://github.com/llacroix/odoo-tools) - Generic tool/library to make management of odoo environment management easier.
 - Search Engine
     - [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 - Script

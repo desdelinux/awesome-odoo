@@ -158,7 +158,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Courses
 
-- [Official Odoo Courses] (https://www.odoo.com/slides) - Official Courses - English
+- [Official Odoo Courses](https://www.odoo.com/slides) - Official Courses - English
 - [Official Odoo Courses](https://www.odoo.com/es_ES/slides) - Official Courses - Spanish
 - [Odoo Class](https://www.odooclass.com/page/homepage) - Greg Moss Course Sites
 - [Diseñando y construyendo un módulo en Odoo](https://vauxoo.thinkific.com/courses/odoo-backend) - Diseñando y construyendo un módulo by Vauxoo

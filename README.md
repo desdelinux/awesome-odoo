@@ -4,15 +4,15 @@ A curated list of awesome Odoo resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome Odoo](#awesome-odoo)
-    - [Documentation](#documentation)
-    - [Books](#books)
-    - [Repositories](#repositories)
-    - [Tools](#tools)
-    - [Websites](#websites)
-    - [Youtube Channels](#youtube-channels)
-    - [Courses](#courses)
-    - [Twitter](#twitter)
+- [Awesome Odoo ](#awesome-odoo-)
+  - [Documentation](#documentation)
+  - [Books](#books)
+  - [Repositories](#repositories)
+  - [Tools](#tools)
+  - [Websites](#websites)
+  - [Youtube Channels](#youtube-channels)
+  - [Courses](#courses)
+  - [Twitter](#twitter)
 - [Contributing](#contributing)
 
 ---
@@ -27,7 +27,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Books
 - Free Books
-    - [Implementation Methodology](https://www.odoo.com/web/content/31019907) - Official book for implementation
+    - [Implementation Methodology](https://www.odoo.com/r/Implementation_methodology) - Official book for implementation
     - [Odoo Development V16](https://www.cybrosys.com/odoo/odoo-books/odoo-16-development/) - Development  Documentation for Odoo v16 by Cybrosys Technologies.
      - [Odoo Accounting V16](https://www.cybrosys.com/odoo/odoo-books/odoo-book-v16/accounting/) - Functional Documentation for Accounting v16 by Cybrosys Technologies.
      - [Odoo Development V15](https://www.cybrosys.com/odoo/odoo-books/odoo-15-development/) - Development  Documentation for Odoo v15 by Cybrosys Technologies.

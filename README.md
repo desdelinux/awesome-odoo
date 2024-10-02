@@ -158,6 +158,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Odoo Bangla](https://www.youtube.com/channel/UCoVnWNoF0kQbukKqN_DxxfQ) - Bangla channel
 - [Luigys Toro](https://www.youtube.com/channel/UCAoYNRiCdqVGxAbNoiUODRg) - Spanish channel
 - [Nicholas Kosinski](https://www.youtube.com/channel/UCfmxKTk4iO2PSdSVOLKhwBA) - English channel
+- [XP Solution](https://www.youtube.com/channel/UCmQbQB9u_8H2DYvaD3hE65w) - Spanish channel 
 
 ## Courses
 

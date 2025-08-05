@@ -79,6 +79,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Libraries
     - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
     - [OdooRPC](https://github.com/OCA/odoorpc) is a Python module to pilot your Odoo servers through JSON-RPC.
+    - [Zenoo RPC](https://github.com/tuanle96/zenoo-rpc) - A modern async Python library for Odoo with type safety, intelligent caching, AI integration, and 600x+ performance improvements.
 - Ides
     - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
     - [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language

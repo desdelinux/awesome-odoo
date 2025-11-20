@@ -99,6 +99,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Design
     - [odoo-fa-icons](https://docs.huihoo.com/odoo/training/reference-material/odoo-icon-smart-buttons.pdf) - Icons for buttons
 
+- Vibe Coding / Frontend
+    - [HelloLeo](https://helloleo.dev/) - AI-powered frontend builder that generates custom apps directly from backend data, without writing code.
+
 ## Websites
 
 - [Odoo](https://www.odoo.com/) - Official Site

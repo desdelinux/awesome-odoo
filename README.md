@@ -95,6 +95,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) - Useful scripts and utility functions, based on click-odoo
 - Linters
     - [pylint-odoo](https://github.com/OCA/pylint-odoo) - Pylint plugin
+- Migration
+    - [OCU](https://ocu.winotto.com/) - Automated Community Edition database upgrade tool supporting versions 16 through 19, with multi-step migration chains.
 
 - Design
     - [odoo-fa-icons](https://docs.huihoo.com/odoo/training/reference-material/odoo-icon-smart-buttons.pdf) - Icons for buttons

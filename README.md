@@ -9,6 +9,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   - [Books](#books)
   - [Repositories](#repositories)
   - [Tools](#tools)
+  - [Mobile](#mobile)
   - [Websites](#websites)
   - [Youtube Channels](#youtube-channels)
   - [Courses](#courses)
@@ -98,7 +99,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - Design
     - [odoo-fa-icons](https://docs.huihoo.com/odoo/training/reference-material/odoo-icon-smart-buttons.pdf) - Icons for buttons
+## Mobile
 
+- [Ordo](https://github.com/tuanle96/ordo) - Open-source native iOS app for Odoo with a schema-driven, model-agnostic engine. Built with Swift/SwiftUI and NestJS backend middleware. Supports Odoo 17-19, Community & Enterprise. Features include full CRUD, Chatter, Activities, and dynamic rendering of any Odoo module.
 ## Websites
 
 - [Odoo](https://www.odoo.com/) - Official Site

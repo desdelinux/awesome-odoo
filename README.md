@@ -65,6 +65,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Tools
 
+- AI Agents
+    - [Pinchy](https://github.com/heypinchy/pinchy) - Self-hosted, AGPL-3.0 AI agent platform whose agents take governed actions in Odoo (query stock, create sales orders, book a receipt from a photo) from chat or Telegram, with per-agent permissions and a signed audit trail.
 - All-in-one tools
     - [Doodba](https://github.com/tecnativa/doodba) - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
     - [odoo-tools](https://github.com/llacroix/odoo-tools) - Generic tool/library to make management of odoo environment management easier.

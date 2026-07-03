@@ -99,6 +99,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Design
     - [odoo-fa-icons](https://docs.huihoo.com/odoo/training/reference-material/odoo-icon-smart-buttons.pdf) - Icons for buttons
 
+- AI
+    - [odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) - Agent skills that make AI coding assistants introspect the running instance (models, fields, views, security) before writing code, with a runtime evidence gate for CI.
+
 ## Websites
 
 - [Odoo](https://www.odoo.com/) - Official Site

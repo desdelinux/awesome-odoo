@@ -79,6 +79,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - Libraries
     - [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
     - [OdooRPC](https://github.com/OCA/odoorpc) is a Python module to pilot your Odoo servers through JSON-RPC.
+    - [Exantrix connector](https://github.com/tony-dev-web/exantrix-marketplace-connecteurs) - Sends Odoo products (XML-RPC) to the Exantrix marketplace (3D printing, DTF, custom textile); Python client of the seller API.
 - Ides
     - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
     - [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language

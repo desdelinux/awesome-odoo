@@ -61,6 +61,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [IT-Projects LLC](https://github.com/it-projects-llc) - The GitHub repos of IT-Projects LLC
 - [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) - Repository with System to sale and manage databases.
 - [SaaS Addons](https://github.com/it-projects-llc/saas-addons) - Repository with modules for SaaS Businesses.
+- [TimeViking Connector](https://github.com/SoftwareServices-be/odoo-timeviking) - LGPL-3 module (18.0-20.0) that keeps timesheets, projects and tasks in two-way sync with the TimeViking timesheet SaaS (paid, free up to 3 users).
 - [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) - Repository with modules for all versions by sunpop  
 
 ## Tools

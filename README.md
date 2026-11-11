@@ -95,6 +95,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) - Useful scripts and utility functions, based on click-odoo
 - Linters
     - [pylint-odoo](https://github.com/OCA/pylint-odoo) - Pylint plugin
+- Upgrade & Migration
+    - [VersionBridge](https://www.versionbridge.com/) - Scans custom modules for breaking changes between versions, verifies each finding on a real target-version server and estimates the upgrade effort.
 
 - Design
     - [odoo-fa-icons](https://docs.huihoo.com/odoo/training/reference-material/odoo-icon-smart-buttons.pdf) - Icons for buttons

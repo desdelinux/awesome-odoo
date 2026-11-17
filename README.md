@@ -303,6 +303,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   developers.
 - [@OdooMemes](https://twitter.com/OdooMemes) - Odoo-related memes.
 
+## Related Lists
+
+- [Awesome Odoo Skills](https://github.com/weinni2000/awesome-odoo-skills#readme) - Agent
+  skills for module development, migration, review, and testing.
+- [Awesome Odoo MCP](https://github.com/weinni2000/awesome-odoo-mcp#readme) - MCP servers,
+  native addons, and hosted services for AI clients.
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the
